@@ -1,0 +1,3 @@
+name: Lee Burden
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
